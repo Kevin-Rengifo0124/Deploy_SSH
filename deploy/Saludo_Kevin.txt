@@ -1,1 +1,0 @@
-Hi! This backend has been deployed automatically using SSH and Git.
